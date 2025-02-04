@@ -1,0 +1,1 @@
+This repository demonstrates a common error in recursive functions in Python: infinite recursion due to an improperly handled base case. The `factorial` function, when called with a negative number, results in a `RecursionError`. The solution file provides a corrected version that handles this scenario gracefully.
